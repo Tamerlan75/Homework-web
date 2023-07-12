@@ -1,0 +1,59 @@
+/* h1{
+    display: flex;
+} */
+
+section{
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+}
+
+.box{
+    width:500px;
+    margin-left: 200px;
+    /* border: 3px solid red; */
+    /* background-color: bisque; */
+    padding: 20px; 
+     
+}
+
+
+h1{
+    color: rgb(0, 47, 255);
+    margin:0;
+}
+
+p {
+    color:rgb(113, 160, 95);
+    margin:0;
+}
+
+.text {
+    color:rgb(42, 165, 124);
+    font-size: 25px;
+    
+}
+
+.btn {
+    margin-top: 40px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(32, 168, 20);
+}
+.im{
+    color:rgb(255, 17, 0)
+}
+.btn1{
+    color:beige
+}
+.el1 {
+    color:blue
+}    
+
+.ice {
+    color:rgb(233, 9, 9)
+    
+}
+.btn:hover {
+    background-color: brown;
+}
